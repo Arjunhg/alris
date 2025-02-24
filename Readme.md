@@ -10,7 +10,7 @@
 * npm install
   - This will install all the dependancy
 * Make .env and add GEMINI_API_KEY=AIzaSyC6RKSL1Jrb_lRwpfNiLocwe5IWaTOW8aM . This will be your gemini api key(I will delete after hackathon ends)
-* npm run dev
+* npm run dev || npm run start
   - This will start the server
 
 ## Frontend
@@ -20,7 +20,7 @@
 * npm install
   - This will install all the dependancy
 * Add VITE_API_URL=http://localhost:3000 to .env
-* npm run dev
+* npm run dev || npm run start
   - This will start the server
 
 ## Test
