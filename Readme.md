@@ -9,7 +9,7 @@
 ### How to run
 * npm install
   - This will install all the dependancy
-* Make .env and add GEMINI_API_KEY="" . This will be your gemini api key
+* Make .env and add GEMINI_API_KEY=AIzaSyC6RKSL1Jrb_lRwpfNiLocwe5IWaTOW8aM . This will be your gemini api key(I will delete after hackathon ends)
 * npm run dev
   - This will start the server
 
